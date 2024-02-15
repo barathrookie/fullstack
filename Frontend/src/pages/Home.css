@@ -1,0 +1,36 @@
+.team_wrapper_p{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: xx-large;
+  }
+  .team_wrapper{
+    padding: 40px;
+    background-color: #e7e5e5;
+    
+  }
+
+  .team_wrapper{
+    margin-top: 2rem;
+    padding: 58px;
+  }
+  .testimonial_wrapper{
+    display: flex;
+    margin-left: 50px;
+  }
+  .course-home-but{
+   
+    margin: 2.5%;
+    padding: 7%;
+    border-radius: 6.8px;
+    background-color: white;
+    color: whitesmoke;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    justify-content: center;
+    margin-left: 12%;
+    display: table-row;
+    background-color: #343a40;
+    transition: transform 0.5s ease;
+    position: relative;
+    
+  }
